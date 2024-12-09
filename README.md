@@ -1,7 +1,7 @@
 # Shadows Over Suburbia Final
  
-**Play:**https://mstrykul1336.github.io/Shadows-Over-Suburbia-Final/
-**Full project:**https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-?tab=readme-ov-file
+**Play:** https://mstrykul1336.github.io/Shadows-Over-Suburbia-Final/
+**Full project:** https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-?tab=readme-ov-file
 **12/8/24 What was done**
 - Fixed the sizing of all the tutorial canvases to make sure the UI fit the screen size.
 - Added more to the tutorial about being able to attack at night too.
